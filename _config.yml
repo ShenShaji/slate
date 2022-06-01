@@ -1,5 +1,16 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Shen Shaji </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shen-shaji-472bb1152/">LinkedIn</a> |
+  <a href="https://github.com/ShenShaji">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & CV related problems.
+  Working as a machine learning engineer at Tiger Analytics.
+  <br>
+  </p>
+
 theme: jekyll-theme-slate
